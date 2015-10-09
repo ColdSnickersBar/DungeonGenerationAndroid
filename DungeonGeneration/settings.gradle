@@ -1,1 +1,1 @@
-include ':app', ':dungeongenerationtests'
+include ':app', ':dungeongenerationtests', ':dungeongenerationmain'
